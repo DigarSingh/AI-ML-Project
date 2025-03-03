@@ -1,10 +1,10 @@
 ## Heart Disease Prediction Model
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This project is a Machine Learning-based Heart Disease Prediction Model that leverages K-Nearest Neighbors (KNN) and Random Forest Classifier to predict the likelihood of heart disease based on patient data.
 
-📌 Features
+## 📌 Features
 
 Implements K-Nearest Neighbors (KNN) and Random Forest classifiers
 
