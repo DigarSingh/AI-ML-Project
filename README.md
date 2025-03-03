@@ -46,7 +46,7 @@ Other medical indicators
 
 We trained and evaluated both models:
 
-K-Nearest Neighbors (KNN)
+## K-Nearest Neighbors (KNN)
 
 Accuracy: ~78%
 
@@ -54,7 +54,7 @@ Pros: Simple and effective for small datasets
 
 Cons: Slower for large datasets
 
-Random Forest
+## Random Forest
 
 Accuracy: ~97%
 
