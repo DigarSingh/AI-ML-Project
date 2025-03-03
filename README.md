@@ -14,7 +14,7 @@ Evaluates model performance using classification reports and accuracy scores
 
 Provides an interactive and user-friendly way to predict heart disease risk
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 🐍
 
@@ -26,7 +26,7 @@ NumPy (Numerical Computing)
 
 Matplotlib & Seaborn (Data Visualization)
 
-📂 Dataset
+## 📂 Dataset
 
 The model is trained on a heart disease dataset containing various health metrics such as:
 
@@ -42,13 +42,13 @@ Heart Rate
 
 Other medical indicators
 
-📊 Model Performance
+## 📊 Model Performance
 
 We trained and evaluated both models:
 
 K-Nearest Neighbors (KNN)
 
-Accuracy: ~X% (Replace with actual accuracy)
+Accuracy: ~78%
 
 Pros: Simple and effective for small datasets
 
@@ -56,12 +56,12 @@ Cons: Slower for large datasets
 
 Random Forest
 
-Accuracy: ~X% (Replace with actual accuracy)
+Accuracy: ~97%
 
 Pros: Handles large datasets well, reduces overfitting
 
 Cons: Slightly more computationally expensive
-📝 How It Works
+## 📝 How It Works
 
 Load the dataset
 
@@ -73,21 +73,21 @@ Evaluate performance using accuracy, precision, recall, and F1-score
 
 Make predictions based on user input
 
-📌 Results & Visualization
+## 📌 Results & Visualization
 
 The model's performance is visualized using confusion matrices, classification reports, and accuracy graphs.
 
 Feature importance analysis is conducted to understand key predictors of heart disease.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
-📬 Contact
+## 📬 Contact
 
 For queries or collaboration, reach out via:
 📧 Email: digarsingh2004@gmail.com🔗 GitHub: @DIGAR SINGH
